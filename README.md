@@ -1,2 +1,2 @@
-# CS-215_SnS
+# CS-215 (LABS)
 Signals &amp; Systems (Spring 2026)
