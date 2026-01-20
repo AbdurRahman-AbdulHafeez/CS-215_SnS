@@ -1,6 +1,6 @@
 # CS-215 (LABS)
 Signals &amp; Systems (Spring 2026)
 
-Lab Session 01: Explore characteristic of various signals using MATLAB<br> 
-Lab Session 02: Apply elementary operations on signals<br>
-Lab Session 03: Examine the aliasing effects on continuous-time sinusoidal signals 
+<b>Lab Session 01:<b> Explore characteristic of various signals using MATLAB<br> 
+<b>Lab Session 02:<b> Apply elementary operations on signals<br>
+<b>Lab Session 03:<b> Examine the aliasing effects on continuous-time sinusoidal signals 
