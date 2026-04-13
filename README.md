@@ -7,3 +7,5 @@ Signals &amp; Systems (Spring 2026)
 <b>Lab Session 04:<b> Signal Processing in Simulink<br>
 <b>Lab Session 05:<b> Frequency Shift Keying (FSK) Modulation Using Switch and Multiplexer<br>
 <b>Lab Session 06:<b> Explore correlation between various signals
+<b>Lab Session 07:<b> Implement a passive low-pass filter using discrete components
+<b>Lab Session 08:<b> Implement an inverting signal amplifier using discrete components
